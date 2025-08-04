@@ -18,8 +18,9 @@ This project is a registration form built using **HTML** and **CSS**, designed a
 ## Usage
 
 Open `index.html` in any web browser to view the registration form.
-#Overview
-Click on this link to see the video : https://drive.google.com/file/d/14k0vJQYqVxEdXgyazajJcDKXaO5LMuEz/view?usp=sharing
+
+## Overview
+Click on this link to see a quick demonstration : https://drive.google.com/file/d/14k0vJQYqVxEdXgyazajJcDKXaO5LMuEz/view?usp=sharing
 ## Author
 
 Mehedi Ahmed
